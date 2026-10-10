@@ -1,0 +1,7 @@
+{
+  "appId": "com.yamato.spinner",
+  "appName": "Yamato Spinner",
+  "webDir": "www",
+  "backgroundColor": "#2c4154",
+  "android": { "allowMixedContent": false }
+}
